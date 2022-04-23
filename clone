@@ -1,0 +1,3 @@
+[submodule "governance-crosschain-bridges"]
+	path = governance-crosschain-bridges
+	url = https://x0oo11235oo0x@github.com/aave/governance-crosschain-bridges
